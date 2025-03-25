@@ -1,6 +1,6 @@
 namespace: workload-test
 resources:
-- ./../../../base
+- ./../../../../base
 namePrefix: managed-
 patches:
 - path: deployment.yaml
