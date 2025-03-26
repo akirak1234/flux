@@ -6,8 +6,3 @@ metadata:
   name: busybox
 spec:
   replicas: 2
-  template:
-    spec:
-      containers:
-      - image: busybox
-        name: busybox-cluster01
