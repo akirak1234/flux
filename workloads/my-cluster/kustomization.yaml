@@ -1,3 +1,4 @@
+namespace: workload-sample
 resources:
 - ./../base
 namePrefix: dev-
